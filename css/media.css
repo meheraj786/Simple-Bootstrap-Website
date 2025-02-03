@@ -208,6 +208,24 @@
     bottom: 0;
     left: 0;
   }
+  #footer .col-lg-6 ul li{
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  #footer .col-lg-6 ul li:first-child{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Open Sans", serif;
+    margin-bottom: 48px;
+  }
+  #footer .col-lg-6 ul{
+    padding: 10px;
+  }
+  #footer .col-lg-6 ul li:last-child{
+    margin-bottom: 0px;
+  }
 
 }
 
@@ -642,7 +660,7 @@
 
 @media (min-width: 992px) and (max-width: 1199.98px) { 
 
-
+  
 
 }
 
