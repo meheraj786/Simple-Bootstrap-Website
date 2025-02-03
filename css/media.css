@@ -1,0 +1,648 @@
+@media (max-width: 575.98px) { 
+  .navbar{
+    position: static;
+    background: #8881D1;
+  }
+  #gallary .item:nth-child(1):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+    
+  }
+  #gallary .item:nth-child(2):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+  }
+  #gallary .item:nth-child(3):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+  }
+
+  .banner{
+    padding: 100px 0;
+  }
+  .banner h1{
+    font-size: 54px ;
+    margin-bottom: 20px;
+  }
+
+  .banner p{
+    font-size: 16px;
+    margin-bottom: 56px;
+    max-width: 100%;
+  }
+
+  .banner .button button:first-child{
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  .banner .button button:last-child{
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  #gallary{
+    padding: 150px 0px;
+  }
+
+  #gallary .item{
+    margin-bottom: 30px; ;
+  }
+  #gallary h2{
+    font-size: 54px;
+
+  }
+  #gallary p{
+    font-size: 26px;
+
+  }
+  #choose{
+    height: auto;
+    padding: 50px 0;
+  }
+  #choose .choose-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  #choose .choose-left .item{
+    max-width: 400px;
+    padding: 0 auto;
+    text-align: center;
+  }
+
+  #choose .choose-right h2{
+    font-size: 38px;
+
+  }
+  
+  #choose .choose-right p{
+    font-size: 16px;
+
+  }
+  
+  #choose .choose-right button{
+    background: #1BBF00;
+    padding: 10px 20px;
+
+  }
+
+  .do .doBox1{
+    margin-bottom: 30px;
+  }
+
+  .do .doBox1 h2{
+    font-size: 38px;
+    
+  }
+  .do .doBox1 p{
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .do .doBox1 button{
+    padding: 10px 20px;
+  }
+
+  .do .doBox h2{
+    font-size: 25px;
+  }
+  .do .doBox p{
+    font-size: 16px;
+  }
+
+  .do .doBox button{
+    font-size: 18px;
+    padding: 6px 8px;
+  }
+  #content{
+    padding-bottom: 60px;
+  }
+  #content .contentText h2{
+    font-size: 38px;
+  }
+  
+  #content .contentText P{
+    font-size: 16px;
+  }
+  #content .contentRight{
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  #content .contentRight img{
+    width: 100%;
+  }
+
+  #plan h2{
+    font-size: 38px;
+  }
+  #plan .col-lg-4{
+    padding: 50px 0;
+    margin-top: 54px;
+
+  }
+  #testimonial h2{
+    margin-bottom: 112px;
+    font-size: 38px;
+
+  }
+  #testimonial .avatar{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-55%, -90%);
+  }
+  #testimonial .testimonialText{
+    max-width: 1080px;
+    padding: 120px 54px;
+    padding-bottom: 56px;
+  }
+  #testimonial .testimonialText p{
+    font-size: 16px;
+  }
+
+  #blog .title{
+    text-align: center;
+    font-size: 40px;
+  }
+
+  #blog .blog-img{
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  #blog  .blog-text{
+    justify-content: center;
+  }
+  #blog .blog-details{
+    text-align: center;
+  }
+  #blog .blog-details .blog-title h2{
+    font-size: 25px;
+
+  }
+  #blog .blog-vector img{
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .navbar{
+    position: static;
+    background: #8881D1;
+  }
+  #gallary .item:nth-child(1):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+    
+  }
+  #gallary .item:nth-child(2):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+  }
+  #gallary .item:nth-child(3):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+  }
+
+  .banner{
+    padding: 100px 0;
+  }
+  .banner h1{
+    font-size: 54px ;
+    margin-bottom: 20px;
+  }
+
+  .banner p{
+    font-size: 16px;
+    margin-bottom: 56px;
+    max-width: 100%;
+  }
+
+  .banner .button button:first-child{
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  .banner .button button:last-child{
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  #gallary{
+    padding: 150px 0px;
+  }
+
+  #gallary .item{
+    margin-bottom: 30px; ;
+  }
+  #gallary h2{
+    font-size: 54px;
+
+  }
+  #gallary p{
+    font-size: 26px;
+
+  }
+  #choose{
+    height: auto;
+    padding: 50px 0;
+  }
+  #choose .choose-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  #choose .choose-left .item{
+    max-width: 400px;
+    padding: 0 auto;
+    text-align: center;
+  }
+
+  #choose .choose-right h2{
+    font-size: 38px;
+
+  }
+  
+  #choose .choose-right p{
+    font-size: 16px;
+
+  }
+  
+  #choose .choose-right button{
+    background: #1BBF00;
+    padding: 10px 20px;
+
+  }
+
+  .do .doBox1{
+    margin-bottom: 30px;
+  }
+
+  .do .doBox1 h2{
+    font-size: 38px;
+    
+  }
+  .do .doBox1 p{
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .do .doBox1 button{
+    padding: 10px 20px;
+  }
+
+  .do .doBox h2{
+    font-size: 25px;
+  }
+  .do .doBox p{
+    font-size: 16px;
+  }
+
+  .do .doBox button{
+    font-size: 18px;
+    padding: 6px 8px;
+  }
+  #content{
+    padding-bottom: 60px;
+  }
+  #content .contentText h2{
+    font-size: 38px;
+  }
+  
+  #content .contentText P{
+    font-size: 16px;
+  }
+  #content .contentRight{
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  #content .contentRight img{
+    width: 100%;
+  }
+
+  #plan h2{
+    font-size: 38px;
+  }
+  #plan .col-lg-4{
+    padding: 50px 0;
+    margin-top: 54px;
+
+  }
+  #testimonial h2{
+    margin-bottom: 112px;
+    font-size: 38px;
+
+  }
+  #testimonial .avatar{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-55%, -90%);
+  }
+  #testimonial .testimonialText{
+    max-width: 1080px;
+    padding: 120px 54px;
+    padding-bottom: 56px;
+  }
+  #testimonial .testimonialText p{
+    font-size: 16px;
+  }
+
+  #blog .title{
+    text-align: center;
+    font-size: 40px;
+  }
+
+  #blog .blog-img{
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  #blog  .blog-text{
+    justify-content: center;
+  }
+  #blog .blog-details{
+    text-align: center;
+  }
+  #blog .blog-details .blog-title h2{
+    font-size: 25px;
+
+  }
+  #blog .blog-vector img{
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .navbar{
+    position: static;
+    background: #8881D1;
+  }
+
+
+  .banner{
+    padding: 100px 0;
+  }
+  .banner h1{
+    font-size: 54px ;
+    margin-bottom: 20px;
+  }
+
+  .banner p{
+    font-size: 16px;
+    margin-bottom: 56px;
+    max-width: 100%;
+  }
+
+  .banner .button button:first-child{
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  .banner .button button:last-child{
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  #gallary .item:nth-child(1):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+    
+  }
+  #gallary .item:nth-child(2):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+  }
+  #gallary .item:nth-child(3):after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 132px;
+    background: #4F585F;
+    opacity: 0%;
+  }
+  #gallary{
+    padding: 150px 0px;
+  }
+
+  #gallary .item{
+    margin-bottom: 30px; ;
+  }
+  #gallary h2{
+    font-size: 54px;
+
+  }
+  #gallary p{
+    font-size: 26px;
+
+  }
+  #choose{
+    height: auto;
+    padding: 50px 0;
+  }
+  #choose .choose-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  #choose .choose-left .item{
+    max-width: 400px;
+    padding: 0 auto;
+    text-align: center;
+  }
+
+  #choose .choose-right h2{
+    font-size: 38px;
+
+  }
+  
+  #choose .choose-right p{
+    font-size: 16px;
+
+  }
+  
+  #choose .choose-right button{
+    background: #1BBF00;
+    padding: 10px 20px;
+
+  }
+
+  .do .doBox1{
+    margin-bottom: 30px;
+  }
+
+  .do .doBox1 h2{
+    font-size: 38px;
+    
+  }
+  .do .doBox1 p{
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .do .doBox1 button{
+    padding: 10px 20px;
+  }
+
+  .do .doBox h2{
+    font-size: 25px;
+  }
+  .do .doBox p{
+    font-size: 16px;
+  }
+
+  .do .doBox button{
+    font-size: 18px;
+    padding: 6px 8px;
+  }
+  #content{
+    padding-bottom: 60px;
+  }
+  #content .contentText h2{
+    font-size: 38px;
+  }
+  
+  #content .contentText P{
+    font-size: 16px;
+  }
+  #content .contentRight{
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  #content .contentRight img{
+    width: 100%;
+  }
+
+  #plan h2{
+    font-size: 38px;
+  }
+  #plan .col-lg-4{
+    padding: 50px 0;
+    margin-top: 54px;
+
+  }
+  #testimonial h2{
+    margin-bottom: 112px;
+    font-size: 38px;
+
+  }
+  #testimonial .avatar{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-55%, -90%);
+  }
+  #testimonial .testimonialText{
+    max-width: 1080px;
+    padding: 120px 54px;
+    padding-bottom: 56px;
+  }
+  #testimonial .testimonialText p{
+    font-size: 16px;
+  }
+
+  #blog .title{
+    text-align: center;
+    font-size: 40px;
+  }
+
+  #blog .blog-img{
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  #blog  .blog-text{
+    justify-content: center;
+  }
+  #blog .blog-details{
+    text-align: center;
+  }
+  #blog .blog-details .blog-title h2{
+    font-size: 25px;
+
+  }
+  #blog .blog-vector img{
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
